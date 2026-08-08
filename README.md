@@ -111,17 +111,42 @@ Interactive slicers allow the dashboard to be filtered across relevant product, 
 **Finding:** Accessories accounted for the largest share of product-category activity in Australia, followed by Bikes and Clothing.
 
 **Interpretation:** Sales activity in the strongest market was concentrated mainly in Accessories.
- 
- 
- 
+
+ ### 4. Which subcategories recorded the highest quantity sold?
+
+**Finding:** Tires and Tubes recorded the highest quantity sold, followed by Bottles and Cages and Helmets.
+
+**Interpretation:** Sales volume was heavily concentrated in a small number of subcategories, particularly Tires and Tubes.
+
+
+ ### 5. Which products generated the most revenue?
+
+**Finding:** Road-650 Red, 58 generated the highest revenue, followed by several Road-150 variants and Mountain-200 Black, 38.
+
+**Interpretation:** Revenue from top products was concentrated mainly within a small number of bike models.
+
+ ### 6. What was the overall business performance?
+
+**Finding:** The business generated about **$101.7M in revenue and $40.0M in profit** across the period, but performance weakened after peaking in 2014.
+
+**Interpretation:** Overall performance was profitable, but the decline after 2014 shows that the earlier growth was not sustained.
   
-   Here are my recommendations
-   * For countries which generated lower revenue such as ;Canada,France and Germany proper investigation should be done to find out the 
-     reason behind the low sales and the marketing team should develope a good marketing campaign to further reach out to more customers 
-     and promote sales in these countries which could include targeted ads.
-  * Promotional sales in form of discount or special offers  can be introduced more often to boost sales especially for high demand and 
-    fast selling products.
-  * According to patronage by gender there seemed to be more males than females,investigations should be carried out to find out why and 
-    how to promote customer patronage by females.
-  * For high demand products  such as the bikes,tires and tubes efforts should be made to ensure that these products are always in stock 
- 
+   ## Recommendations
+
+- Investigate the decline in revenue and profit after 2014, with particular attention to lower-performing markets and product performance.
+- Maintain sufficient stock of high-performing products and high-volume subcategories, particularly key bike models, Tires and Tubes.
+- Strengthen sales and marketing efforts in lower-revenue markets while protecting performance in leading markets such as Australia and the United States.
+
+  ## Limitations
+
+- The analysis is descriptive and identifies performance patterns but does not establish the causes behind changes in revenue and profit.
+  
+- Factors such as marketing activity, discounts, inventory availability, returns, and other operational drivers were not included in the analysis.
+
+  ## Conclusion
+
+* The analysis showed strong overall sales and profitability, with performance peaking in 2014 before declining in later years.
+
+* Australia and the United States were the leading markets, while a small group of bike models and subcategories contributed strongly to sales performance.
+
+* The dashboard provides management with a clearer view of where the business is performing well and where further investigation may be needed.
