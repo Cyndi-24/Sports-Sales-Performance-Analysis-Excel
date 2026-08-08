@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyses sports retail sales data from 2011 to 2016 using Microsoft Excel.
+This project analyzes sports retail sales data from 2011 to 2016 using Microsoft Excel.
 
 The analysis brings together revenue, profit, orders, products, subcategories, and geographic performance in an interactive dashboard designed to provide a clear view of overall sales performance.
 
