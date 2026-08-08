@@ -1,9 +1,5 @@
 # SPORT SALES PERFORMANCE ANALYSIS
 
-
-![image alt](https://github.com/Cyndi-24/Sports-Sales-Performance-Analysis-Excel/blob/main/Sport%20Sales%20Excel%20Project/sport_sales_logo.png)
-
-
 ## Project Overview
 
 This project analyses sports retail sales data from 2011 to 2016 using Microsoft Excel.
