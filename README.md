@@ -95,11 +95,26 @@ Interactive slicers allow the dashboard to be filtered across relevant product, 
 
 ![image alt](https://github.com/Cyndi-24/Sports-Sales-Performance-Analysis-Excel/blob/main/SPORTS/dashboard.png)
 
-  - Which Gender had the most patronage?
-    
- ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/patronage_by_gender.png)
 
-  - What revenue is generatted by each country?
+### 1. How did revenue and profit change from 2011 to 2016?
+
+**Finding:** Revenue increased from about **$10.1M in 2011** to a peak of **$22.6M in 2014**. It remained relatively high in 2015 at **$22.3M**, before declining to **$19.6M in 2016**. Profit followed a similar pattern, rising from about **$4.0M in 2011** to roughly **$8.9M in 2014**, then declining to about **$7.5M in 2016**.
+
+**Interpretation:** The business experienced strong growth between 2011 and 2014, with both revenue and profit more than doubling. Performance began to soften after 2014, particularly in 2016, suggesting that the factors supporting earlier growth may have weakened and should be investigated further.
+
+  
+
+  ### 2. Which countries generated the most revenue?
+
+**Finding:** Australia generated the highest revenue, followed closely by the United States.
+
+**Interpretation:** Revenue was concentrated in a few key markets, making Australia and the United States important markets for continued business focus.
+
+### 3. Which product categories were driving sales in the highest-revenue market?
+
+**Finding:** Accessories accounted for the largest share of product-category activity in Australia, followed by Bikes and Clothing.
+
+**Interpretation:** Sales activity in the strongest market was concentrated mainly in Accessories.
  
    ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/Revenue_generated_by_counry.png)
 
